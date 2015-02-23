@@ -13,6 +13,7 @@
 		28D7FB141A9A983700C44A80 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28D7FB131A9A983700C44A80 /* Images.xcassets */; };
 		28D7FB171A9A983700C44A80 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28D7FB151A9A983700C44A80 /* LaunchScreen.xib */; };
 		28D7FB231A9A983700C44A80 /* mailboxVuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D7FB221A9A983700C44A80 /* mailboxVuTests.swift */; };
+		28D7FB2D1A9A9C7200C44A80 /* MailboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D7FB2C1A9A9C7200C44A80 /* MailboxViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		28D7FB1C1A9A983700C44A80 /* mailboxVuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mailboxVuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		28D7FB211A9A983700C44A80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		28D7FB221A9A983700C44A80 /* mailboxVuTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mailboxVuTests.swift; sourceTree = "<group>"; };
+		28D7FB2C1A9A9C7200C44A80 /* MailboxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MailboxViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				28D7FB131A9A983700C44A80 /* Images.xcassets */,
 				28D7FB151A9A983700C44A80 /* LaunchScreen.xib */,
 				28D7FB0A1A9A983700C44A80 /* Supporting Files */,
+				28D7FB2C1A9A9C7200C44A80 /* MailboxViewController.swift */,
 			);
 			path = mailboxVu;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			files = (
 				28D7FB0F1A9A983700C44A80 /* ViewController.swift in Sources */,
 				28D7FB0D1A9A983700C44A80 /* AppDelegate.swift in Sources */,
+				28D7FB2D1A9A9C7200C44A80 /* MailboxViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
